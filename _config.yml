@@ -1,9 +1,10 @@
-layout_spectrum: 1
+typography_spectrum: 0.483871
 color:
   saturation: 0.6863799
   lightness: 0.3530466
   brandStrength: 0.5519713
   rhythmicContrast: 0.2364037
-typography_spectrum: 0.483871
+layout_spectrum: 1
 name: Acolor Studio Grafico Srl
 title: Pagina beta de GRID
+description: Testing 1
