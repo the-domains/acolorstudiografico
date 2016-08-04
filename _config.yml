@@ -1,0 +1,14 @@
+layout_spectrum: 0.2078853
+typography_spectrum: 0.483871
+color:
+  saturation: 0.6863799
+  lightness: 0.3530466
+  brandStrength: 0.5519713
+  rhythmicContrast: 0.2364037
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+name: AcolorStudioGrafico
